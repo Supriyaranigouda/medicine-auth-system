@@ -1,0 +1,102 @@
+brand_name,manufacturer,composition,is_discontinued
+Lipitor,Pfizer,Atorvastatin Calcium,False
+Ozempic,Novo Nordisk,Semaglutide,False
+Augmentin,GSK,Amoxicillin / Clavulanic Acid,False
+Humira,AbbVie,Adalimumab,False
+Keytruda,Merck,Pembrolizumab,False
+Mounjaro,Eli Lilly,Tirzepatide,False
+Metformin,Viatris,Metformin Hydrochloride,False
+Zoloft,Pfizer,Sertraline HCl,False
+Eliquis,BMS,Apixaban,False
+Advil,Haleon,Ibuprofen,False
+Skyrizi,AbbVie,Risankizumab-rzaa,False
+Nexium,AstraZeneca,Esomeprazole Magnesium,False
+Januvia,Merck,Sitagliptin Phosphate,False
+Gardasil,Merck,Quadrivalent Human Papillomavirus,False
+Stelara,Janssen,Ustekinumab,False
+Farxiga,AstraZeneca,Dapagliflozin,False
+Amlodipine,Lupin,Amlodipine Besylate,False
+Xarelto,Bayer,Rivaroxaban,False
+Lisinopril,Aurobindo,Lisinopril Dihydrate,False
+Wegovy,Novo Nordisk,Semaglutide,False
+Tylenol,Kenvue,Acetaminophen,False
+Dupixent,Sanofi,Dupilumab,False
+Entresto,Novartis,Sacubitril / Valsartan,False
+Crestor,AstraZeneca,Rosuvastatin Calcium,False
+Ocrevus,Roche,Ocrelizumab,False
+Rinvoq,AbbVie,Upadacitinib,False
+Sertraline,Cipla,Sertraline Hydrochloride,False
+Prevnar,Pfizer,Pneumococcal Vaccine,False
+Albuterol,Teva,Albuterol Sulfate,False
+Biktarvy,Gilead,Bictegravir / Emtricitabine,False
+Gabapentin,Sun Pharma,Gabapentin,False
+Trulicity,Eli Lilly,Dulaglutide,False
+Symbicort,AstraZeneca,Budesonide / Formoterol,False
+Opdivo,BMS,Nivolumab,False
+Singulair,Merck,Montelukast Sodium,False
+Lexapro,Lundbeck,Escitalopram Oxalate,False
+Cosentyx,Novartis,Secukinumab,False
+Lyrica,Viatris,Pregabalin,False
+Jardiance,Boehringer,Empagliflozin,False
+Prednisone,Hikma,Prednisone,False
+Shingrix,GSK,Zoster Vaccine Recombinant,False
+Pantoprazole,Dr. Reddy's,Pantoprazole Sodium,False
+Ibuprofen,Perrigo,Ibuprofen,False
+Praluent,Regeneron,Alirocumab,False
+Panadol,Haleon,Paracetamol,False
+Amoxicillin,Sandoz,Amoxicillin,False
+Soliris,Alexion,Eculizumab,False
+Ventolin,GSK,Salbutamol,False
+Claritin,Bayer,Loratadine,False
+Brilinta,AstraZeneca,Ticagrelor,False
+Zyrtec,UCB,Cetirizine Hydrochloride,False
+Prolia,Amgen,Denosumab,False
+Benadryl,Kenvue,Diphenhydramine HCl,False
+Xolair,Novartis,Omalizumab,False
+Gilenya,Novartis,Fingolimod,True
+Xeljanz,Pfizer,Tofacitinib,False
+Imbruvica,Pharmacyclics,Ibrutinib,False
+Otezla,Amgen,Apremilast,False
+Hemlibra,Roche,Emicizumab-kxwh,False
+Tagrisso,AstraZeneca,Osimertinib,False
+Venclexta,AbbVie,Venetoclax,False
+Symtuza,Janssen,Darunavir / Cobicistat,False
+Brevibloc,Baxter,Esmolol Hydrochloride,False
+Adempas,Bayer,Riociguat,False
+Kyprolis,Amgen,Carfilzomib,False
+Zytiga,Janssen,Abiraterone Acetate,False
+Lynparza,AstraZeneca,Olaparib,False
+Erbitux,Lilly,Cetuximab,False
+Fevastin,Abbott,Paracetamol Injection,False
+TrialDrugX,Kezar Life Sci,KZR-616,False
+Verzenio,Lilly,Abemaciclib,False
+Zifi,FDC Ltd,Cefixime,False
+Amlodac,Zydus,Amlodipine,False
+Lanzol,Cipla,Lansoprazole,True
+Xigduo,AstraZeneca,Dapagliflozin / Metformin,False
+Triumeq,ViiV,Abacavir / Dolutegravir,False
+Trokendi,Supernus,Topiramate,False
+Braftovi,Pfizer,Encorafenib,False
+Mektovi,Pfizer,Binimetinib,False
+Victoza,Novo Nordisk,Liraglutide,False
+Descovy,Gilead,Emtricitabine / Tenofovir,False
+Sprycel,BMS,Dasatinib,False
+Gleevec,Novartis,Imatinib Mesylate,False
+Spiriva,Boehringer,Tiotropium Bromide,False
+Jardiance,Boehringer,Empagliflozin,False
+Combivent,Boehringer,Ipratropium / Albuterol,True
+Pradaxa,Boehringer,Dabigatran Etexilate,False
+Vimpat,UCB,Lacosamide,False
+Neupro,UCB,Rotigotine,False
+Briviact,UCB,Brivaracetam,False
+Nayzilam,UCB,Midazolam,False
+Fintepla,UCB,Fenfluramine,False
+Sutent,Pfizer,Sunitinib Malate,False
+Inlyta,Pfizer,Axitinib,False
+Xalkori,Pfizer,Crizotinib,False
+Ibrance,Pfizer,Palbociclib,False
+Besponsa,Pfizer,Inotuzumab Ozogamicin,False
+Talzenna,Pfizer,Talazoparib,False
+Lorbrena,Pfizer,Lorlatinib,False
+Vizimpro,Pfizer,Dacomitinib,False
+crocin,GSK Consumer Healthcare Ltd,Paracetamol 650mg,False
