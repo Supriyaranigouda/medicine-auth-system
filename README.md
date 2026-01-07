@@ -1,4 +1,4 @@
-                                                                       **Medicine authentication system**
+ **Medicine authentication system**
 This project is a comprehensive AI-powered Medicine Authentication System designed to detect counterfeit pharmaceutical products using a combination of deep learning, OCR,
 and metadata validation techniques. It integrates a custom-trained CNN model that analyzes uploaded medicine packaging images to classify them as real or fake based on visual
 characteristics. The system is trained and validated using multiple datasets, including: 
